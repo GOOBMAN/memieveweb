@@ -1,0 +1,19 @@
+@charset "utf-8";
+.Divider1 {
+    background-color: #F52E66;
+    background-size: 0px auto;
+    background-position: 0% 0%;
+    width: 1000px;
+    height: 250px;
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+    top: 0px;
+    padding-right: 40px;
+    padding-bottom: 40px;
+    padding-top: 40px;
+    padding-left: 40px;
+    float: none;
+    text-align: center;
+    margin: 0 auto
+}
