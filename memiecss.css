@@ -15,5 +15,11 @@
     padding-left: 40px;
     float: none;
     text-align: center;
-    margin: 0 auto
+    margin: 0 auto;
+    text-shadow: 0px 0px 19px #FFFFFF;
+}
+.list {
+    margin: 0 auto;
+    text-align: center;
+    text-indent: -39px;
 }
